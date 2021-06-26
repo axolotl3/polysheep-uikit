@@ -2225,12 +2225,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/polyswanfinance"
+        href: "https://t.me/polysheepdefi"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolySwanFinance",
+        href: "https://twitter.com/Polysheepdefi",
     },
 ];
 var MENU_HEIGHT = 64;
